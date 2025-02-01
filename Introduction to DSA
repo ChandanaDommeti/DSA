@@ -1,0 +1,52 @@
+# 📘 Introduction to Data Structures and Algorithms (DSA)
+
+## 🚀 What are Data Structures?  
+A **Data Structure** is a way of organizing and storing data so that it can be accessed and modified efficiently. It plays a crucial role in solving complex computational problems and is essential for coding interviews and competitive programming.
+
+### **Types of Data Structures:**  
+1. **Linear Data Structures** (Elements arranged sequentially)  
+   - Arrays  
+   - Linked Lists  
+   - Stacks  
+   - Queues  
+
+2. **Non-Linear Data Structures** (Elements connected in a hierarchical manner)  
+   - Trees  
+   - Graphs  
+   - Hash Tables  
+
+---
+
+## 📌 What are Algorithms?  
+An **Algorithm** is a step-by-step procedure or set of rules to solve a specific problem. Efficient algorithms help optimize time and memory usage.
+
+### **Types of Algorithm Paradigms:**  
+- **Brute Force** → Tries all possible solutions  
+- **Divide and Conquer** → Breaks a problem into smaller subproblems (e.g., Merge Sort)  
+- **Greedy Algorithms** → Makes the best possible choice at each step (e.g., Dijkstra’s Algorithm)  
+- **Dynamic Programming** → Breaks problems into subproblems and stores results to avoid recomputation (e.g., Fibonacci Sequence)  
+
+---
+
+## 🎯 Why Learn Data Structures and Algorithms?  
+- **Enhances Problem-Solving Skills**  
+- **Improves Code Efficiency and Optimization**   
+- **Essential for Coding Interviews (FAANG & other tech companies)**  
+- **Useful in Competitive Programming & System Design** 
+
+---
+
+## 🔥 How to Get Started?  
+1. Learn **basic data structures** like Arrays, Linked Lists, Stacks, and Queues.  
+2. Understand **common algorithms** such as Sorting, Searching, and Graph Traversals.  
+3. Practice problems on platforms like **LeetCode, CodeChef, HackerRank, and GeeksforGeeks**.  
+4. Implement data structures from scratch to strengthen your understanding.  
+
+---
+
+## 📚 Additional Resources  
+- [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)  
+- [LeetCode - DSA Problems](https://leetcode.com/)  
+- [MIT OpenCourseWare - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)  
+
+---
